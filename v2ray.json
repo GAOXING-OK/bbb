@@ -31,7 +31,7 @@
 		//include_ss
 		,
         {
-            "protocol": "http",
+            "protocol": "socks",
             "port": 50432,
             "settings": {
                 "auth": "password",
